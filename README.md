@@ -2,11 +2,12 @@
 
 A calculator that is written in Java for the command line.
 
-## Contributors
+### Contributors
+-------
     Anders Borg (@aboru)
 
-## Copyright
-
+### Copyright
+-------
 Copyright 2015 BMWr
 
 Licensed under the Apache License, Version 2.0 (the "License");
