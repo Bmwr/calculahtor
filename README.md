@@ -2,6 +2,8 @@
 
 A calculator that is written in Java for the command line.
 
+## Contributors
+    Anders Borg (@aboru)
 
 ## Copyright
 
