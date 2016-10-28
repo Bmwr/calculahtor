@@ -1,6 +1,6 @@
 # Calculahtor
 
-A calculator that is written in Java for the command line.
+Different forms of a calculator program written in Java.
 
 ### Contributors
 -------
